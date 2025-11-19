@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gridiron Vision AI",
+  "description": "Upload NFL game clips to generate 2D tactical replays using Gemini 2.5 Flash multimodal analysis.",
+  "requestFramePermissions": []
+}
